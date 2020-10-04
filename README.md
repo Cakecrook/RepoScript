@@ -7,3 +7,9 @@ The command works as follows:
 dir_name will become the name both the directory that's created on my computer as well as the name of the github repository.
     
 file_name is the name of the python file that's created. I currently have it set up so that the user can pick the name of the file, but I'm thinking about giving it a default name, such as source.py or using dir_name.
+
+The idea for this project came from Kalle Hallden's youtube video "One Day Builds: Automating My Projects With Python" (@Kalle Hallden on youtube)
+
+Packages needed:
+sys
+selenium
